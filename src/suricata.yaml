@@ -68,6 +68,7 @@ stats:
   
 rule-files:
   - ping.rules
+  - ssh.rules
 
 default-rule-path: ./suricata_rules
 
